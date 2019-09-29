@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+html{
+	background-color: blue;
+	font-family: sans-serif;
+	font-weight: 300;
+	font-size:20px;
+	text-rendering: optimizeLegibility; 
+}
+.row{
+	color: green;
+	max-width: 1140px;
+	margin: 0 auto;
+}
+.random{
+	background-color: blue;
+}
